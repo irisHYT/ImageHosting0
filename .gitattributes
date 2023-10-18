@@ -71,3 +71,4 @@ images/1691737688505.webp filter=lfs diff=lfs merge=lfs -text
 images/1691737688510.webp filter=lfs diff=lfs merge=lfs -text
 images/1691737688518.webp filter=lfs diff=lfs merge=lfs -text
 images/1691737688527.webp filter=lfs diff=lfs merge=lfs -text
+images/new-bike.webp filter=lfs diff=lfs merge=lfs -text
