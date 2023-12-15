@@ -74,3 +74,4 @@ images/1691737688527.webp filter=lfs diff=lfs merge=lfs -text
 images/new-bike.webp filter=lfs diff=lfs merge=lfs -text
 images/firefox-host.webp filter=lfs diff=lfs merge=lfs -text
 images/firefox-tab.gif filter=lfs diff=lfs merge=lfs -text
+images/firefox-tab-full.gif filter=lfs diff=lfs merge=lfs -text
