@@ -76,3 +76,7 @@ images/firefox-host.webp filter=lfs diff=lfs merge=lfs -text
 images/firefox-tab.gif filter=lfs diff=lfs merge=lfs -text
 images/firefox-tab-full.gif filter=lfs diff=lfs merge=lfs -text
 images/midundao.webp filter=lfs diff=lfs merge=lfs -text
+images/hklushang.webp filter=lfs diff=lfs merge=lfs -text
+images/longji.webp filter=lfs diff=lfs merge=lfs -text
+images/taipingshanding.webp filter=lfs diff=lfs merge=lfs -text
+images/daaolushang.webp filter=lfs diff=lfs merge=lfs -text
