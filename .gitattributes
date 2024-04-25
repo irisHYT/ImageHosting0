@@ -80,3 +80,5 @@ images/hklushang.webp filter=lfs diff=lfs merge=lfs -text
 images/longji.webp filter=lfs diff=lfs merge=lfs -text
 images/taipingshanding.webp filter=lfs diff=lfs merge=lfs -text
 images/daaolushang.webp filter=lfs diff=lfs merge=lfs -text
+images/hkjiedao.webp filter=lfs diff=lfs merge=lfs -text
+images/taipingshanding-g.webp filter=lfs diff=lfs merge=lfs -text
